@@ -4,9 +4,9 @@ export default function Index() {
     return (
         <>
             <Container
-            backgroundMobile="/home/background-home-mobile.jpg"
-            backgroundTablet="/home/background-home-tablet.jpg"
-            backgroundDesktop="/home/background-home-desktop.jpg">
+            backgroundMobile="/SpaceTourismWebsite/home/background-home-mobile.jpg"
+            backgroundTablet="/SpaceTourismWebsite/home/background-home-tablet.jpg"
+            backgroundDesktop="/SpaceTourismWebsite//home/background-home-desktop.jpg">
                 <Container3>
                     <SubTitle1>So, you want to travel to</SubTitle1>
                     <Title>Space</Title>
