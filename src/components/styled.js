@@ -22,14 +22,14 @@ export const Container = styled.div`
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    padding: 70px 30px 30px 30px;
+    padding-top: 70px;
 
     font-size: 16px;
 
     @media (min-width: 377px) {
         background-image: url(${(props) => props.backgroundTablet});
         background-position: center;
-        padding: 140px 120px 60px 120px;
+        padding-top: 140px;
         font-size: 28px;
     }
 
